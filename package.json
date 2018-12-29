@@ -1,0 +1,15 @@
+{
+  "name": "image-min",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "klequis",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "imagemin": "^6.1.0",
+    "imagemin-mozjpeg": "^8.0.0"
+  }
+}
